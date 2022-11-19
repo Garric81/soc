@@ -1,0 +1,10 @@
+\.\./
+etc/passwd
+etc/shadow
+cmd\.exe
+/bin/sh
+/bin/bash
+<#
+tail -f /var/logs/apache2/access.log | egrep --line-buffered -i -f ioc.txt |
+tee -a interesting.txt
+#>
