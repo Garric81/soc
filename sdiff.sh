@@ -1,7 +1,7 @@
 #!/bin/bash -
 #
 # Bash и кибербезопасность
-SYSNAME="$(uname -n)_$(date +'%m_%d_%Y')" ; sudo find / -type f | xargs -d '\n' sha1sum > ${SYSNAME}_baseline.txt 2>${SYSNAME}_error.txt
+SYSNAME="$(uname -n)_$(date +'%m_%d_%Y')" ; sudo find / -type f | xargs -d '\n' sha1sum > ${SYSNAME}_baseline.txt 2 > ${SYSNAME}_error.txt
 # Пример команды
 #Чтобы сравнить два файла и вывести только строки, которые отличаются, введите следующее:
 # sdiff -s file1.txt file2.txt

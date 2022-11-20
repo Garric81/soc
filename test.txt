@@ -1,1 +1,3 @@
-done 4< ${1:-day1.data} 5< ${2:-day2.data}
+
+# My testing files lessons kiber  bez
+#done 4< ${1:-day1.data} 5< ${2:-day2.data}
