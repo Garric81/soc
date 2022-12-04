@@ -1,0 +1,10 @@
+http://rus-linux.net/MyLDP/sec/PolicyKit_pr2.html
+https://habr.com/ru/post/266935/
+https://ru.bmstu.wiki/Polkit
+https://help.ubuntu.ru/wiki/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_ubuntu_server/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/apparmor
+https://docs.docker.com/engine/security/apparmor/
+https://gitlab.com/apparmor/apparmor/wikis/QuickProfileLanguage
+https://www.ibm.com/developerworks/ru/library/l-pam/
+https://github.com/chipsec/chipsec/blob/master/chipsec-manual.pdf
+https://medium.com/information-and-technology/so-what-is-apparmor-64d7ae211ed
+https://habr.com/ru/post/308032/
